@@ -1,6 +1,6 @@
-# Joint Savings Account Contract in Solidity
+# Smart Contract - Joint Savings Account
 
-Create a solidity smart contract that accepts two user addresses that are then able to control a joint savings account in a financial institution. The smart contract uses ether management functions to implement various requirements from a financial institution to provide the features of the joint savings account.
+This solidity app creates a solidity smart contract (using Remix) that accepts two user addresses that are then able to control a joint savings account in a financial institution. The smart contract uses ether management functions to implement various requirements from a financial institution to provide the features of the joint savings account.
 
 
 <br/>
@@ -9,7 +9,7 @@ Create a solidity smart contract that accepts two user addresses that are then a
 
 ## Technologies
 
-This application uses the following technologies:
+This application uses the following technology:
 
 * [Remix](https://remix.ethereum.org)
 
@@ -19,7 +19,7 @@ This application uses the following technologies:
 
 ## Usage
 
-Got to the Remix website, create a new smart contract and copy/paste the code from the joint_savings.sol file. Compile and deploy the joint_savings.sol smart contract in Remix.
+Go to the Remix website, create a new smart contract and copy/paste the code from the joint_savings.sol file. Compile and deploy the joint_savings.sol smart contract in Remix.
 
 
 The following images showed the tests done on the smart contract.
@@ -32,7 +32,7 @@ The following images showed the tests done on the smart contract.
 
 <br/>
 
-2. Deposit 1 ether as wei.
+2. Deposit 1 ether as wei. Enter amount.
 ![image2](images/image2.png)
 
 <br/>
@@ -42,7 +42,7 @@ The following images showed the tests done on the smart contract.
 
 <br/>
 
-4. Deposit 10 ether as wei.
+4. Deposit 10 ether as wei. Enter amount.
 ![image 4](images/image4.png)
 
 <br/>
@@ -52,7 +52,7 @@ The following images showed the tests done on the smart contract.
 
 <br/>
 
-6. Deposit 5 ether as wei.
+6. Deposit 5 ether as wei. Enter amount.
 ![image 6](images/image6.png)
 
 <br/>
