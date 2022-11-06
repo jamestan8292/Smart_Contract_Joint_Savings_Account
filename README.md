@@ -1,6 +1,6 @@
 # Smart Contract - Joint Savings Account
 
-This solidity app creates a solidity smart contract (using Remix) that accepts two user addresses that are then able to control a joint savings account in a financial institution. The smart contract uses ether management functions to implement various requirements from a financial institution to provide the features of the joint savings account.
+This solidity app creates a smart contract (using Remix) that accepts two user addresses that are then able to control a joint savings account in a financial institution. The smart contract uses ether management functions to implement various requirements from a financial institution to provide the features of the joint savings account.
 
 
 <br/>
